@@ -1,0 +1,18 @@
+<resources>
+
+    <string name="app_name">SNS Application</string>
+    <!-- Strings related to add item -->
+
+    <!-- Strings related to add user -->
+    <string name="bt_adduser">追加</string>
+    <string name="tv_addusermsg">追加ユーザー名を入力してください</string>
+    <string name="tv_addusermain">ユーザーの追加</string>
+
+    <!-- Strings related to item main -->
+
+
+    <!-- Strings related to main -->
+    <string name="tv_userlist">ユーザーリスト</string>
+    <string name="ty_usename">ユーザー名</string>
+
+</resources>
